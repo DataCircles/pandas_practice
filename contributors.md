@@ -10,11 +10,15 @@ Welcome to the team! Here are the steps to make contributions to this repo:
 ```git clone <link to your fork>```
 
 3. Navigate into the cloned repo & add the Data Circles repo as upstream :
+
 ```cd pandas_practice```
+
 ```git remote add upstream https://github.com/DataCircles/pandas_practice.git```
 
-4. Navigate into **pandas_demos** & make a new notebook: \n 
+4. Navigate into **pandas_demos** & make a new notebook: 
+
 ```cd pandas_demos```
+
 ```touch <your filename>.ipynb```
 
 5. Run jupyter notebook & code away! 
