@@ -2,29 +2,28 @@
 
 Welcome to the team! Here are the steps to make contributions to this repo:
 
-1. Make yourself a branch:
+1. Fork the repository:
 
-A:  Click here 
 ![alt text](images/contrib2.png "Logo Title Text 1")
-B: Type here
-![alt text](images/contrib1.png "Logo Title Text 1")
 
 2. Clone the repo to your local machine:  
-```git clone https://github.com/DataCircles/plotting_prowess.git```
+```git clone <link to your fork>```
 
-3. Move to your branch:
-```git checkout <your branch>```
+3. Navigate into the cloned repo & add the Data Circles repo as upstream :
+```cd pandas_practice```
+```git remote add upstream https://github.com/DataCircles/pandas_practice.git```
 
-4. Make a new notebook: 
-```code <your filename>.ipynb```
+4. Navigate into **pandas_demos** & make a new notebook: 
+```cd pandas_demos```
+```touch <your filename>.ipynb```
 
 5. Run jupyter notebook & code away! 
 
 ##### Topic
-Please name your notebook after the method that you will focus on. You are welcome to provide a demonstration of any pandas method(s). We suggest looking through the existing examples to avoid duplication. We hope to introduce people to some of the less common methods, but this is intended for readers and contributors at all skill levels, so there is no wrong choice! 
+Please name your notebook after the primary method that you will focus on. You are welcome to provide a demonstration of any pandas method(s). We suggest looking through the existing examples in the Table of Contents to avoid duplication. We hope to introduce people to some of the less common methods, but this is intended for readers and contributors at all skill levels, so there is no wrong choice! 
 
 ##### Data
-To move your data into the repo, make a directory called 'data'. This is already included in the .gitignore file, so anything placed into this folder will automatically be ignored by GitHub. This is because GitHub is not designed for data storage, and doesn't allow files above 100 MB. We suggest using data available online, so that you can include instructions for others to access the data needed to reproduce your plots. 
+To move your data into your local repo, make a directory called 'data'. This is already included in the .gitignore file, so anything placed into this folder will automatically be ignored by GitHub. This is because GitHub is not designed for data storage, and doesn't allow files above 100 MB. We suggest using data available online, so that you can include instructions for others to access the data needed to reproduce your plots. 
 
 6. When your demo is complete, please save it as a PNG & add it to images folder in your branch of the repo. In a jupyter notebook, you can right click on the plot and save it. 
 
