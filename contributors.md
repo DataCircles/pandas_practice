@@ -13,7 +13,7 @@ Welcome to the team! Here are the steps to make contributions to this repo:
 ```cd pandas_practice```
 ```git remote add upstream https://github.com/DataCircles/pandas_practice.git```
 
-4. Navigate into **pandas_demos** & make a new notebook: 
+4. Navigate into **pandas_demos** & make a new notebook: \n 
 ```cd pandas_demos```
 ```touch <your filename>.ipynb```
 
