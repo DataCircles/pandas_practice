@@ -27,15 +27,11 @@ Welcome to the team! Here are the steps to make contributions to this repo:
 Please name your notebook after the primary method that you will focus on. You are welcome to provide a demonstration of any pandas method(s). We suggest looking through the existing examples in the Table of Contents to avoid duplication. We hope to introduce people to some of the less common methods, but this is intended for readers and contributors at all skill levels, so there is no wrong choice! 
 
 ##### Data
-To move your data into your local repo, make a directory called 'data'. This is already included in the .gitignore file, so anything placed into this folder will automatically be ignored by GitHub. This is because GitHub is not designed for data storage, and doesn't allow files above 100 MB. We suggest using data available online, so that you can include instructions for others to access the data needed to reproduce your plots. 
+To move your data into your local repo, make a directory called 'data'. This is already included in the .gitignore file, so anything placed into this folder will automatically be ignored by GitHub. This is because GitHub is not designed for data storage, and doesn't allow files above 100 MB. We suggest using data available online, so that you can include instructions for others to access the data needed to reproduce your code. 
 
-6. When your demo is complete, please save it as a PNG & add it to images folder in your branch of the repo. In a jupyter notebook, you can right click on the plot and save it. 
+6. When you are ready to share your work, commit changes to your branch. 
 
-7. When you are ready to share your work, commit changes to your branch. 
-
-Double check that you are in your branch. 
-```git branch```
-Check the status of your branch.
+Check the status of your local repo.
 ```git status```
 Add your file(s). 
 ```git add <your filename>.ipynb```
