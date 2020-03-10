@@ -4,7 +4,7 @@ Welcome to the team! Here are the steps to make contributions to this repo:
 
 1. Fork the repository:
 
-![alt text](images/contrib2.png "Logo Title Text 1")
+![alt text](images/fork.png "Logo Title Text 1")
 
 2. Clone the repo to your local machine:  
 ```git clone <link to your fork>```
@@ -41,10 +41,8 @@ Commit changes to your branch.
 Push changes to your remote branch (on GitHub).
 ```git push```
 
-8. Open the Repo on GitHub : https://github.com/DataCircles/plotting_prowess.
-
-9. You should see your branch highlighted as a "recently pushed branch" (you may need to refresh page). Click the green button for "Compare & pull request". 
-![alt text](images/contrib3.png "Logo Title Text 1")
+8. Open your fork of the repo on GitHub. Click the button for "New pull request". 
+![alt text](images/request0.png "Logo Title Text 1")
 
 10. The next page should automatically populate this information, but it is worth checking three points. A: You should see "compare: <your name>". B: You should see "Able to merge". C: You should see your commit message; if needed, add details to explain the changes you're commiting.
 ![alt text](images/contrib4.png "Logo Title Text 1")
