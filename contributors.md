@@ -41,14 +41,10 @@ Commit changes to your branch.
 Push changes to your remote branch (on GitHub).
 ```git push```
 
-8. Open your fork of the repo on GitHub. Click the button for "New pull request". 
+7. Open your fork of the repo on GitHub. Click the button for "New pull request". 
 ![alt text](images/request0.png "Logo Title Text 1")
 
-10. The next page should automatically populate this information, but it is worth checking three points. A: You should see "compare: <your name>". B: You should see "Able to merge". C: You should see your commit message; if needed, add details to explain the changes you're commiting.
-![alt text](images/contrib4.png "Logo Title Text 1")
+8. The next page should automatically populate this information, but it is worth checking two points. A: You should see that the base repository is **DataCircles/pandas_practice** and the head repository is your fork. B: You should see "Able to merge", unless there are any merge conflicts.
+![alt text](images/request1.png "Logo Title Text 1")
 
-11. Click the gear icon by "Reviewers". You will be able to type in or click on other users. Please select *kellystroh* or *jendefig*. 
-![alt text](images/contrib5.png "Logo Title Text 1")
-![alt text](images/contrib6.png "Logo Title Text 1")
-
-12. Click "Create pull request". One of us will review and approve your changes as soon as possible. 
+9. On the next page, you should see your commit message. Feel free to add details if needed. Click "Create pull request" once more. One of us will review and approve your changes as soon as possible. 
