@@ -48,3 +48,4 @@ Push changes to your remote branch (on GitHub).
 ![alt text](images/request1.png "Logo Title Text 1")
 
 9. On the next page, you should see your commit message. Feel free to add details if needed. Click "Create pull request" once more. One of us will review and approve your changes as soon as possible. 
+![alt text](images/request2.png "Logo Title Text 1")
