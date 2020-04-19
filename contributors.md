@@ -19,7 +19,7 @@ Welcome to the team! Here are the steps to make contributions to this repo:
 
 ```cd pandas_demos```
 
-```touch <your filename>.ipynb```
+```cp template.ipynb <new title>.ipynb```
 
 5. Run jupyter notebook & code away! 
 
